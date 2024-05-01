@@ -6,8 +6,8 @@ Este es el proyecto final para la asignatura de Tecnologías Emergentes de Softw
 ## Grupo 6
 
 ### Integrantes
-- Eugenio Gonzalez  
-- Diego Palencia
+- Eugenio Gonzalez - eugeniog@uninorte.edu.co - eugenio-gonzalez
+- Diego Palencia - dapalencia@uninorte.edu.co - diegopalencia7
 - Jose Carlos Vasquez - vasquezcj@uninorte.edu.co - JosevasquezBecerril
 - Steven Rodriguez - segranados@uninorte.edu.co - stevenr90
 - Jorge Jinete - jljinete@uninorte.edu.co - MR211
