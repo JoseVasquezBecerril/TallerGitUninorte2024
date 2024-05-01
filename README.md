@@ -6,15 +6,15 @@ Este es el proyecto final para la asignatura de Tecnologías Emergentes de Softw
 ## Grupo 6
 
 ### Integrantes
-- Eugenio Gonzalez
+- Eugenio Gonzalez  
 - Diego Palencia
-- Jose Carlos Vasquez
-- Steven Rodriguez
-- Jorge Jinete
+- Jose Carlos Vasquez - vasquezcj@uninorte.edu.co - JosevasquezBecerril
+- Steven Rodriguez - segranados@uninorte.edu.co - stevenr90
+- Jorge Jinete - jljinete@uninorte.edu.co - MR211
 
 ## Objetivo del Proyecto
 
-[El objetivo del proyecto es poder aplicar los conceptos vistos en el manejo de ramas con git y github]
+El objetivo del proyecto es poder aplicar los conceptos vistos en el manejo de ramas con git y github
 
 ## Tecnologías Utilizadas
 
